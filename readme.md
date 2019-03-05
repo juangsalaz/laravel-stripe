@@ -10,7 +10,7 @@ I want to share how to develop a payment gateway with integrating our Laravel Ap
 4. Run `php artisan serve`
 5. access the server address provided by Laravel
 
-## Review
+## Preview
 <p align="center"><img src="https://gdurl.com/r686"></p>
 
 <p align="center"><img src="https://gdurl.com/v0u1"></p>
