@@ -22,9 +22,4 @@ class PaymentController extends Controller
 		    'source' => $token,
 		]);
     }
-
-    public function getPayment()
-    {
-    	echo 'test';
-    }
 }
